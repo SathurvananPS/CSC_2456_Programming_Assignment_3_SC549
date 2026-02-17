@@ -1,0 +1,11 @@
+------------------------------
+Performance Metrics Summary
+------------------------------
+Total Videos Processed: 10
+Average Inference Time: 115.47 ms
+Max Inference Time: 281.33 ms
+Min Inference Time: 83.02 ms
+Average Confidence Score: 0.80
+Total Detections: 46
+Average Detections per Video: 4.60
+------------------------------
